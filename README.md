@@ -5,5 +5,4 @@ I love JavaScript, currently ecstatic with the stack: React, React Native and No
 
 ![Matheus0liveira github stats](https://github-readme-stats.vercel.app/api?username=Matheus0liveira&show_icons=true&theme=light)
 
-> Contact me 👉 <a target="_blank" href="https://www.linkedin.com/in/matheus0liveira/">Linkedin </a>
-
+> Contact me 👉 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendo-souza-pinheiro)](https://www.linkedin.com/in/matheus0liveira/)
