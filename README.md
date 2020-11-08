@@ -1,8 +1,25 @@
-👋 Hi! my name is Matheus Oliveira Santos.<br/>
-I'm a Junior Web developer passionate about technology and practicality. <br/>
-I love JavaScript, currently ecstatic with the stack: React, React Native and NodeJs. <br/>
+<div align="center">
 
 
-![Matheus0liveira github stats](https://github-readme-stats.vercel.app/api?username=Matheus0liveira&show_icons=true&theme=light)
 
-> Contact me 👉 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendo-souza-pinheiro)](https://www.linkedin.com/in/matheus0liveira/)
+<img src="./Description.svg" width="650"/>
+
+
+![Matheus0liveira github stats](https://github-readme-stats.vercel.app/api?username=Matheus0liveira&show_icons=true&theme=tokyonight)
+
+[![Matheus0liveira Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus0liveira&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<br/>
+<br/>
+
+### Profiles
+
+<br/>
+
+ [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Matheus0liveira)](https://github.com/Matheus0liveira) &nbsp;&nbsp;&nbsp;&nbsp;
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/Matheus0liveira)](http://linkedin.com/in/Matheus0liveira)&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheus_osantos/)](https://www.instagram.com/matheus_osantos/)
+
+----------
