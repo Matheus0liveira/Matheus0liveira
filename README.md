@@ -1,4 +1,4 @@
-
+<div alig="center">
 
 <img src="./Github-Card.svg" width="100%"/>
 
@@ -18,7 +18,7 @@ I'm Matheus Oliveira Santos, Front-End Developer, working over React.Js ecosyste
 
 Currently learning: GraphQL, Apollo, Jest and Testing Library
 
-<div alig="center">
+
 
 ### Profiles
 
@@ -31,6 +31,6 @@ Currently learning: GraphQL, Apollo, Jest and Testing Library
 
 ----------
 
-<div/>
+</div>
 
 
