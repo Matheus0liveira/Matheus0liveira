@@ -1,4 +1,4 @@
-<div alig="center">
+
 
 <img src="./Github-Card.svg" width="100%"/>
 
@@ -8,11 +8,17 @@
 ![Matheus0liveira github stats](https://github-readme-stats.vercel.app/api?username=Matheus0liveira&show_icons=true&theme=tokyonight)
 
 
-<div/>
+
 
 <br/>
 <br/>
 
+Hi there!
+I'm Matheus Oliveira Santos, Front-End Developer, working over React.Js ecosystem.
+
+Currently learning: GraphQL, Apollo, Jest and Testing Library
+
+<div alig="center">
 
 ### Profiles
 
@@ -24,5 +30,7 @@
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheus_osantos/)](https://www.instagram.com/matheus_osantos/)
 
 ----------
+
+<div/>
 
 
