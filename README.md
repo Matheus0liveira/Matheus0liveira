@@ -16,7 +16,7 @@
 Hi there!
 I'm Matheus Oliveira Santos, Front-End Developer, working over React.Js ecosystem.
 
-Currently learning: GraphQL, Apollo, Jest and Testing Library
+Currently learning: GraphQL, Jest and Testing Library
 
 
 
