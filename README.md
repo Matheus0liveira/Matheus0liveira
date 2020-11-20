@@ -1,4 +1,4 @@
-
+<div alig="center">
 
 <img src="./Github-Card.svg" width="100%"/>
 
@@ -7,9 +7,8 @@
 
 ![Matheus0liveira github stats](https://github-readme-stats.vercel.app/api?username=Matheus0liveira&show_icons=true&theme=tokyonight)
 
-[![Matheus0liveira Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus0liveira&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div/>
 
 <br/>
 <br/>
