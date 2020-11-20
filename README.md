@@ -1,4 +1,4 @@
-<div alig="center">
+<div align="center">
 
 <img src="./Github-Card.svg" width="100%"/>
 
