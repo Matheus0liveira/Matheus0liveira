@@ -1,10 +1,8 @@
-<div align="center">
-
 
 
 <img src="./Github-Card.svg" width="100%"/>
 
-<div/>
+
 
 
 ![Matheus0liveira github stats](https://github-readme-stats.vercel.app/api?username=Matheus0liveira&show_icons=true&theme=tokyonight)
@@ -21,7 +19,6 @@
 
 <br/>
 
-<div align="center">
 
  [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Matheus0liveira)](https://github.com/Matheus0liveira) &nbsp;&nbsp;&nbsp;&nbsp;
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/Matheus0liveira)](http://linkedin.com/in/Matheus0liveira)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,4 +26,4 @@
 
 ----------
 
-<div/>
+
