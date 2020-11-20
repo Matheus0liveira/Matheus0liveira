@@ -4,7 +4,7 @@
 
 <img src="./Github-Card.svg" width="100%"/>
 
-</div>
+<div/>
 
 
 ![Matheus0liveira github stats](https://github-readme-stats.vercel.app/api?username=Matheus0liveira&show_icons=true&theme=tokyonight)
@@ -29,4 +29,4 @@
 
 ----------
 
-</div>
+<div/>
